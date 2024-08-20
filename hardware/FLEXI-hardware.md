@@ -21,7 +21,12 @@ The [OSF](https://osf.io/dbg6h/) repo contains the .dxf files for cutting all th
 
 ## Construction
 
-Another goal of this document is to supplement the original instructions for building FLEXI. In building **Violet**, I had a lot of trouble with these instructions, especially since it looks like they tried to fit the entire process on one page, with varying results. There are also simply a few typos and mistakes that I'd like to save you some time with. 
+Another goal of this document is to supplement the original instructions for building FLEXI. In building **Violet**, I had a lot of trouble with these instructions, especially since it looks like they tried to fit the entire process on one page, with varying results. There are also simply a few typos and mistakes that I'd like to save you some time with. Concerning the directions on page 1185 of the original paper:
+
+- There is no direction on what fasteners to use for what. Use your best guess/intuition for this, and for most parts of the construction, it'll be fine. The kits in the BoM have enough nuts and bolts.
+- Steps 1 is very unclear about standoffs and spacers. I used M3 x 8 standoffs to attach the makerbeams to the part labelled "square base" and 
+
+
 
 ## Wiring
 
