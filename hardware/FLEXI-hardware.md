@@ -23,3 +23,7 @@ The [OSF](https://osf.io/dbg6h/) repo contains the .dxf files for cutting all th
 
 Another goal of this document is to supplement the original instructions for building FLEXI. In building **Violet**, I had a lot of trouble with these instructions, especially since it looks like they tried to fit the entire process on one page, with varying results. There are also simply a few typos and mistakes that I'd like to save you some time with. 
 
+## Wiring
+
+The wiring documentation in the original paper is... lacking. I'm not convinced that this isn't a strange choice, but you may have noticed that it calls for a car charger for the Surface Pro, and then that is wired into a barrel plug.
+
