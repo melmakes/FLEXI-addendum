@@ -25,5 +25,7 @@ Another goal of this document is to supplement the original instructions for bui
 
 ## Wiring
 
-The wiring documentation in the original paper is... lacking. I'm not convinced that this isn't a strange choice, but you may have noticed that it calls for a car charger for the Surface Pro, and then that is wired into a barrel plug.
+The wiring documentation in the original paper is... lacking. I'm not convinced that this isn't a strange choice, but you may have noticed that it calls for a car charger for the Surface Pro, and then that is wired into a barrel plug in parallel with the U2D2. **Note**, by the way, that the U2D2 is wired differently for FLEXI than what the U2D2 [e-manual](https://emanual.robotis.com/docs/en/parts/interface/u2d2/) says. Otherwise, I found that the manuals from Robotis for the motors and U2D2 were very helpful.
+
+
 
