@@ -48,7 +48,11 @@ The wiring documentation in the original paper is... lacking. I'm not convinced 
 
  **Note**, by the way, that the U2D2 is wired differently for FLEXI than what the U2D2 [e-manual](https://emanual.robotis.com/docs/en/parts/interface/u2d2/) says. Otherwise, I found that the manuals from Robotis for the motors and U2D2 were very helpful.
 
-The wiring on FLEXI truly isn't all that complex. In putting the thing together myself, I elected to forego the crimp connectors in the BoM for some good ol' fashioned splicing with heat-shrink and solder. (TODO: include image of this) If you don't know how to splice wires, you can find a ton of great online guides. Follow the wiring diagram included with the original paper, and use the barrel connector included in `bom_addendum.csv`. 
+The wiring on FLEXI truly isn't all that complex. In putting the thing together myself, I elected to forego the crimp connectors in the BoM for some good ol' fashioned splicing with heat-shrink and solder. If you don't know how to splice wires, you can find a ton of great online guides. Follow the wiring diagram included with the original paper, and use the barrel connector included in `bom_addendum.csv`. Here's a few images of the finished wires for the power:
+
+<img src="images/heat_shrink_1.png" alt="an image showing the end result of the wire splicing process" height="200">
+<img src="images/heat_shrink_2.png" alt="an alternate perspective on the above image" height="200">
+<img src="images/heat_shrink_3.png" alt="an image of the completed power supply wiring, prior to insertion into the robot" height="200">
 
 In addition, there is a lot of wiring involved in making all of the connectivity that FLEXI needs to function. Some of the cables needed for this can be found in `bom_addendum.csv`, but basically, you just need to be able to pass a lot of data between the Surface, the Pixel, and the U2D2. Here's a wiring diagram that I found useful:
 
