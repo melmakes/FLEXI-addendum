@@ -23,6 +23,8 @@ The [OSF](https://osf.io/dbg6h/) repo contains the .dxf files for cutting all th
 
 ## Faceplate 
 
+The faceplate is a rather simple piece, made of a 3D printed part, `faceplate.stl`, and 2 M2.5 threaded heat-set inserts. I chose to paint the one on **Violet** a lovely lilac shade. This, in general, is one of the easiest parts to base little customizations and fun details around.(TODO: add heat insert image)
+
 ## Construction
 
 Another goal of this document is to supplement the original instructions for building FLEXI. In building **Violet**, I had a lot of trouble with these instructions, especially since it looks like they tried to fit the entire process on one page, with varying results. There are also simply a few typos and mistakes that I'd like to save you some time with. Concerning the directions on page 1185 of the original paper:
@@ -33,7 +35,9 @@ Another goal of this document is to supplement the original instructions for bui
 - In Step 3, I would advise not attaching the phone plate just yet. What you should do is attach the phone case to the phone plate, using the faceplate as a jig to make sure everything fits together properly. (TODO: include pics of this process)
 - Also, in Step 3, the motor labelled as "Motor B" is the 2XC430-W250-T, and each of the two axes connected by the neck parts requires an idler. Look in the manuals for the idlers in the BoM to see which motors they correspond to. 
 - Oh, and in Step 3, the part labelled "150MM Makerbeam" is, in fact, supposed to be a 100mm Makerbeam. Save yourself the headache of disassembly and reassembly.
-- Step 4 is a bit tricky, so I've included an image that should help guide you through it. (TODO: import image)
+- Step 4 is a bit tricky, so I've included an image that should help guide you through it: 
+ 
+![control board assembly](images/board_assem.PNG)
 
 The remainder of the original instructions for building FLEXI are pretty simple and easy to follow, aside from the wiring. 
 
@@ -46,5 +50,7 @@ The wiring documentation in the original paper is... lacking. I'm not convinced 
 
 The wiring on FLEXI truly isn't all that complex. In putting the thing together myself, I elected to forego the crimp connectors in the BoM for some good ol' fashioned splicing with heat-shrink and solder. (TODO: include image of this) If you don't know how to splice wires, you can find a ton of great online guides. Follow the wiring diagram included with the original paper, and use the barrel connector included in `bom_addendum.csv`. 
 
-In addition, there is a lot of wiring involved in making all of the connectivity that FLEXI needs to function. Some of the cables needed for this can be found in `bom_addendum.csv`, but basically, you just need to be able to pass a lot of data between the Surface, the Pixel, and the U2D2. (TODO: include wiring diagram) 
+In addition, there is a lot of wiring involved in making all of the connectivity that FLEXI needs to function. Some of the cables needed for this can be found in `bom_addendum.csv`, but basically, you just need to be able to pass a lot of data between the Surface, the Pixel, and the U2D2. Here's a wiring diagram that I found useful:
+
+![FLEXI wiring diagram](images/FLEXI%20wiring.png)
 
