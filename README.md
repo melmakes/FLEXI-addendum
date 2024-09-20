@@ -98,3 +98,4 @@ So obviously, I must thank [Dr. Patricia Alves-Oliveira](https://patricialvesoli
 
 I also need to make a shoutout to [Skye Krzykwa](https://linktr.ee/krzyksky), who helped me with some of the electrical stuff. I came into this project with very little knowledge of electronics, and she might feel like she barely even helped, but I couldn't have built **Violet** without the help she provided.
 
+And finally, I'd like to thank the original design team for FLEXI! I may have some critiques of their work, but learning from our mistakes is how we advance towards better things, and learning from others' mistakes is kinda one of the best things about this whole open-source community! 
