@@ -54,7 +54,7 @@ The wiring on FLEXI truly isn't all that complex. In putting the thing together 
 <img src="images/heat_shrink_2.png" alt="an alternate perspective on the above image" height="200">
 <img src="images/heat_shrink_3.png" alt="an image of the completed power supply wiring, prior to insertion into the robot" height="200">
 
-In addition, there is a lot of wiring involved in making all of the connectivity that FLEXI needs to function. Some of the cables needed for this can be found in `bom_addendum.csv`, but basically, you just need to be able to pass a lot of data between the Surface, the Pixel, and the U2D2. Here's a wiring diagram that I found useful:
+In addition, there is a lot of wiring involved in making all of the connectivity that FLEXI needs to function. Some of the cables needed for this can be found in `bom_addendum.csv`, but basically, you just need to be able to pass a lot of data between the Surface, the Pixel, and the U2D2. Here's a wiring diagram that I found useful, but did not create. It was buried in the old google drive folder for this project:
 
 ![FLEXI wiring diagram](images/FLEXI%20wiring.png)
 
