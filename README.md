@@ -94,7 +94,7 @@ What I mean is, something with:
 
 ## Acknowledgements
 
-So obviously, I must thank Dr. Patricia Alves-Oliveira for giving me the opportunity to work on this project. It was a lot of fun, as well as being a valuable experience.
+So obviously, I must thank [Dr. Patricia Alves-Oliveira](https://patricialvesoliveira.com/) for giving me the opportunity to work on this project. It was a lot of fun, as well as being a valuable experience.
 
-I also need to make a shoutout to Skye Krzykwa, who helped me with some of the electrical stuff. I came into this project with very little knowledge of electronics, and she might feel like she barely even helped, but I couldn't have built **Violet** without the help she provided.
+I also need to make a shoutout to [Skye Krzykwa](https://linktr.ee/krzyksky), who helped me with some of the electrical stuff. I came into this project with very little knowledge of electronics, and she might feel like she barely even helped, but I couldn't have built **Violet** without the help she provided.
 
