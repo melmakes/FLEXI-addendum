@@ -29,7 +29,7 @@ The faceplate is a rather simple piece, made of a 3D printed part, `faceplate.st
 
 Another goal of this document is to supplement the original instructions for building FLEXI. In building **Violet**, I had a lot of trouble with these instructions, especially since it looks like they tried to fit the entire process on one page, with varying results. There are also simply a few typos and mistakes that I'd like to save you some time with. Concerning the directions on page 1185 of the original paper:
 
-- There is no direction on what fasteners to use for what. Use your best guess/intuition for this, and for most parts of the construction, it'll be fine. The kits in the BoM have plenty nuts and bolts.
+- There is no direction on what fasteners to use for what. Use your best guess/intuition for this, and for most parts of the construction, it'll be fine. The kits in the BoM have plenty of nuts and bolts.
 - Step 1 is very unclear about standoffs and spacers. I used M3 x 8 standoffs to attach the makerbeams to the part labelled "square base". I used a stack of washers for the parts labelled simply "spacers". Alternatively, for this step, you can use M3 screws and spacers, but the holes are sized for M4. It's probably fine either way.
 - In Step 2, the motor labelled "Dynamixel motor" is the XH540-W270-T motor called for in the BoM.
 - In Step 3, I would advise not attaching the phone plate just yet. What you should do is attach the phone case to the phone plate, using the faceplate as a jig to make sure everything fits together properly. (TODO: include pics of this process)
@@ -37,7 +37,7 @@ Another goal of this document is to supplement the original instructions for bui
 - Oh, and in Step 3, the part labelled "150MM Makerbeam" is, in fact, supposed to be a 100mm Makerbeam. Save yourself the headache of disassembly and reassembly.
 - Step 4 is a bit tricky, so I've included an image that should help guide you through it: 
  
-![control board assembly](images/board_assem.PNG)
+<img src="images/board_assem.PNG" alt="step by step assembly for the control board" height="500">
 
 The remainder of the original instructions for building FLEXI are pretty simple and easy to follow, aside from the wiring. 
 
