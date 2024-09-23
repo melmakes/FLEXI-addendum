@@ -1,0 +1,15 @@
+﻿Designator,QTY,Cost (USD),Source,Info
+Lazy Susan,1,<20,*amazon link*,"Necessary for smooth ""waist"" motion"
+"M2.5 x 6mm Bolts, pack of 50",1,$11.56 ,https://www.mcmaster.com/91290A101/,to fasten faceplate to phone plate
+"M2.5 Threaded Heat-Set Inserts, pack of 100",1,$17.56 ,https://www.mcmaster.com/94180A321/,to fasten faceplate to phone plate
+Zipties,10-15,<$20,https://www.mcmaster.com/products/zip-ties/cable-ties-2~/cable-ties-7/,"for cable management. Smallest pack looks to be 25, more than enough"
+M4 x 3mm spacers,4,$1.62 ,https://www.mcmaster.com/93657A004/,"Use these in Step 1, labelled ""spacers"" "
+USB Hub,1,$47.02 ,https://www.digikey.com/en/products/detail/startech-com/HB30C4AIB/21398321,"to connect Surface to U2D2, Arduino, and Pixel"
+USB A->Micro Cable,2,$2.65 ,https://www.digikey.com/en/products/detail/qualtek/3025033-01/6235029,to connect USB Hub to U2D2 and Arduino
+USB A->C Right Angle Cable,1,$3.95 ,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5031/14625566,"to connect USB Hub to Pixel, needs to be right angle at USB C end to fit faceplate"
+Female Barrel Connector with Terminal Block,1,$1.00 ,https://www.digikey.com/en/products/detail/led-lighting-inc/FB-CON/12687320,to connect spliced power circuit to power supply
+"12VDC, 10A Power Supply",1,$50.60 ,https://www.digikey.com/en/products/detail/tt-electronics-power-partners-inc/PEAMD120-12-B2/15838890?s=N4IgjCBcoKwOxVAYygMwIYBsDOBTANCAPZQDaIAzGABw0IC6hADgC5QgDKLATgJYB2AcxABfEYQBMZEEyIB3XNwAE2AK5MmmAJ5KwEgGpKWRXQAYAgiHoigA,"to connect barrel connector to wall plug, and power FLEXI"
+"1/2"" Inner Diameter Heat Shrink, Feet",1,$3.45 ,https://www.digikey.com/en/products/detail/te-connectivity-raychem-cable-protection/NTFR-1-2-0-SP/5317866,for splicing power supply wires
+,,,,
+,,,,
+,,,,
