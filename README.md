@@ -19,7 +19,9 @@ Next, since most of the structural parts of FLEXI are made of cut aluminum, I'm 
 
 A note for buying the stock, I was able to make an 8" by 8" sheet of .190" thick aluminum work for the largest part, `circular_base.dxf`. If you're not deeply confident in your ability to set up your cutting equipment with precision, you probably want to get a larger sheet, as this part has a diameter of 200 mm, allowing for only 3 mm of tolerance (8" = 203 mm). For purchasing the materials, I've included a little table of what to get, in the file `alu_stock.csv`.
 
-The [OSF](https://osf.io/dbg6h/) repo contains the .dxf files for cutting all the parts for FLEXI, and then you can use a nesting software, such as [Deepnest](https://deepnest.io/) to arrange the parts on your stock sheets. 
+I've included all the DXF files you should need if you buy the aluminum stock as outlined in `alu_stock.csv`, and placed them in the `cut_files` directory. The spreadsheet with the stock says which files to use for what.
+
+If you want to do the nesting yourself (maybe you already have an appropriate sheet of aluminum with weird shapes of free space?), the [OSF](https://osf.io/dbg6h/) repo contains the .dxf files for cutting all the parts for FLEXI, and then you can use a nesting software, such as [Deepnest](https://deepnest.io/) to arrange the parts on your stock sheets. 
 
 ## Faceplate 
 
