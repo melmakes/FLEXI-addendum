@@ -1,0 +1,4 @@
+﻿Component,Quantity,Price,Link,Description
+"8"" x 8"" sheet, 0.190"" thick",3,$19.07 ,https://www.mcmaster.com/89015K279/,"For 1x base-ring, 1x circular-base, and 1x outer-ring. These cuts are large enough that they could not be nested."
+"12""x 12"" sheet, 0.100"" thick",1,$23.20 ,https://www.mcmaster.com/89015K961/,"For 2x neck-bracket-distal, 2x neck-bracket-proximal, 4x neck-bracket-spacer, and 1x mounting-plate. These are nested in the file nested_drawing_100.dxf "
+"8"" x 8"" sheet, 0.080"" thick",1,$9.57 ,https://www.mcmaster.com/89015K196/,"For 2x neck-motor-plate, 1x phone-plate, 1x slew-motor-bracket, and 1x torque-tongue-lazy. These are nested in the file nested_drawing_080.dxf "
